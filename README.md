@@ -52,7 +52,7 @@ The project integrates multiple datasets from Excel files and transforms raw bus
 - Forecast Accuracy Monitoring
 
 ---
+## 📷 Dashboard Preview
 
-### Dashboard Home View
-! [Home View Dashboard] (https://github.com/zoyafatma-analytics/Business_Insights_360/blob/main/Business_insights_360_screenshot.png)
+![Business Insights 360 Dashboard](https://raw.githubusercontent.com/zoyafatma-analytics/Business_Insights_360/main/Business_insights_360_screenshot.png)
 
