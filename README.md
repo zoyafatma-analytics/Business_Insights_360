@@ -54,4 +54,5 @@ The project integrates multiple datasets from Excel files and transforms raw bus
 ---
 
 ## Dashboard Home View
-![Home View Dashboard] (
+![Home View Dashboard] (https://github.com/zoyafatma-analytics/Business_Insights_360/blob/main/Business_insights_360_screenshot.png)
+
