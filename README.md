@@ -41,15 +41,25 @@ The project integrates multiple datasets from Excel files and transforms raw bus
 
 ---
 
-## 📈 Dashboard Features
-- Finance View
-- Sales View
-- Marketing View
-- Supply Chain View
-- Executive View
-- Dynamic Filters & KPI Cards
-- Profitability & Growth Analysis
-- Forecast Accuracy Monitoring
+
+## 📊 Dashboard Views
+
+### 💰 Finance View
+Analyzes key financial metrics including Net Sales, Gross Margin, Operational Expenses, and Net Profit. Helps track overall financial performance against benchmarks and targets.
+
+### 📈 Sales View
+Provides insights into customer performance, regional sales trends, and revenue contribution across different markets and business segments.
+
+### 📣 Marketing View
+Focuses on product performance analysis by evaluating sales growth, profitability, and product category contribution through interactive visualizations.
+
+### 🚚 Supply Chain View
+Monitors Forecast Accuracy, Net Error, inventory risks, and supply chain efficiency to identify stock-related issues and operational gaps.
+
+### 👨‍💼 Executive View
+Offers a high-level overview of the business by consolidating KPIs and insights from all departments into a single interactive dashboard for executives and stakeholders.
+
+---
 
 ---
 ## 📷 Dashboard Preview
